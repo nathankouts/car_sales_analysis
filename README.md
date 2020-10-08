@@ -1,4 +1,4 @@
-Car Sales Analysis
+# Car Sales Analysis
 
 As the years are passing by, more and more cars are being bought. Where do people buy cars from? From car dealerships. Car dealerships need to be updated on which models they should buy based on the buying habits that the citizens of the USA have.
 For this project we are going to analyze the US car sales database and find the answers to some interesting questions that a car dealership’s owner would face when trying to decide which cars they should buy. We are going to answer to the following questions: 
