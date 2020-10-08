@@ -23,7 +23,9 @@ For this project we are going to analyze the US car sales database and find the 
 
 •	Find the most accurate predictive model that predicts the price of a car.
 
-I analyzed the data, built the prediction model and did EDA using the Jupyter Notebook. To provide some higher quality I cleaned the dataframe and replaced the missing values. Next, I made a simple python program that converts the .csv file to an .xlsx file so we can import it in Tableau.
-All the Plots from Tableau will be uploaded in the folder “Tableau Plots” and the plots from the EDA will be visible in the Jupyter Notebook file and I will also save them in the folder named “EDA Plots”.
+I analyzed the data, built the prediction model and did EDA using the Jupyter Notebook. To provide some higher quality I cleaned the dataframe and replaced the missing values.
+Next, I made a simple python program that converts the .csv file to an .xlsx file so we can import it in Tableau.
+All the Plots from Tableau will be uploaded in the folder “Tableau Plots” and the plots from the EDA will be visible in the Jupyter Notebook file and I will also save them in the
+folder named “EDA Plots”.
 All other necessary information are written as comments in the Jupyter Notebook files.
 
