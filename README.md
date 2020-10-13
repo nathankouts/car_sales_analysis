@@ -4,7 +4,7 @@ As the years are passing by, more and more cars are being bought. Where do peopl
 For this project we are going to analyze the US car sales database and find the answers to some interesting questions that a car dealership’s owner would face when trying to decide which cars they should buy. We are going to answer to the following questions: 
 
 
-•	What affects a car's price the most.
+•	What affects a car's price the most?
 
 •	How much of a brand new car's worth is lost after a year of owning it?
 
@@ -18,7 +18,7 @@ For this project we are going to analyze the US car sales database and find the 
 
 •	What was the least expensive car?
 
-•	Can a predictive model be built in order to predict the price of a car based on some features.
+•	Can a predictive model be built in order to predict the price of a car based on some features?
 
 •	Find the most accurate predictive model that predicts the price of a car.
 
